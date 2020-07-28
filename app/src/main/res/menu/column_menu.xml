@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/twoColumnMenu"
+        android:title="@string/set_two_column"/>
+    <item android:id="@+id/threeColumnMenu"
+        android:title="@string/set_three_column"/>
+    <item android:id="@+id/fourColumnMenu"
+        android:title="@string/set_four_column"/>
+
+</menu>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageSearch</string>
+    <string name="set_four_column">Set four column</string>
+    <string name="set_three_column">Set three column</string>
+    <string name="set_two_column">Set two column</string>
+    <string name="search_here">Search Here</string>
+</resources>
